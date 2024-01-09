@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "432419785410",
+    "firebase_url": "https://lecture11-cb1a1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lecture11-cb1a1",
+    "storage_bucket": "lecture11-cb1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432419785410:android:9ee52481a7f901e245c95b",
+        "android_client_info": {
+          "package_name": "com.example.lecture11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwD-7QPNRdqmDyvr0YBGv1f9_VQyE0Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
